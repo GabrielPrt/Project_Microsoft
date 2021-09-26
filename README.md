@@ -21,6 +21,6 @@ This project was developed with the following technologies:
 
 This project is open to the public, to access and test.
 
-If you want to test <a href="https://gabrielprt.github.io/Project_Sony/">click here</a> 🎯
+If you want to test <a href="https://gabrielprt.github.io/Project_Microsoft/">click here</a> 🎯
 
 Created by 😁 Gabriel Prates 👋 <a href="https://github.com/GabrielPrt">Get in touch!</a>
